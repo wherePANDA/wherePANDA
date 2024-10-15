@@ -132,7 +132,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wherePANDA/wherePANDA/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wherePANDA/wherePANDA/refs/heads/main/snake.svg" alt="Snake animation" />
 
 ###
 
